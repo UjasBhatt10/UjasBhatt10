@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ujas Bhatt</h1>
 <h3 align="center">A passionate flutter developer.</h3>
 
-- 🔭 I’m currently working on [Weather App](https://github.com/UjasBhatt10/Weather_App)
+- 🔭 I’m currently working on [YouTube Video Player](https://github.com/UjasBhatt10/YouTube-Video-Player-App)
 
 - 🌱 I’m currently learning **flutter**
 
